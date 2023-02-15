@@ -3,8 +3,38 @@
   color: white;
   list-style: none;
   font-family: Anek Bangla;
+  font-size: 30px;
 }
 
 .boxli{
   margin: 0px 30px 0px 30px;
+}
+
+a:link{
+  color: white;
+  text-decoration: none;
+  display: inline-flex;
+  color: white;
+  list-style: none;
+  font-family: Anek Bangla;
+  font-size: 30px;
+}
+
+a:visited{
+  color: white;
+  text-decoration: none;
+  display: inline-flex;
+  color: white;
+  list-style: none;
+  font-family: Anek Bangla;
+  font-size: 30px;
+}
+
+a:hover{
+  color: aquamarine;
+  display: inline-flex;
+  color: white;
+  list-style: none;
+  font-family: Anek Bangla;
+  font-size: 30px;
 }

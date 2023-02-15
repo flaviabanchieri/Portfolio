@@ -1,3 +1,4 @@
+import { SobremimComponent } from './sobremim/sobremim/sobremim.component';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -10,7 +11,8 @@ import { MenuComponent } from './menu/menu.component';
   declarations: [
     AppComponent,
     HomepageComponent,
-    MenuComponent
+    MenuComponent,
+    SobremimComponent,
   ],
   imports: [
     BrowserModule,
